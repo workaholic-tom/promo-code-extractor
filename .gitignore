@@ -1,0 +1,18 @@
+# Test data (contains personal emails)
+Test Emails/
+
+# macOS
+.DS_Store
+
+# Validation screenshots
+validation_*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
+
+# Old file
+Project 1
